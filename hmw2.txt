@@ -1,29 +1,47 @@
-# chronic-disease
+DIGITAL EPIDEMIOLOGY
+ASSIGNMENT #2
+DUE DATE: 
+JANUARY 22th, 2018
+HARD DEADLINE: JANUARY 12th, 2018
+========================================================
 
-A machine learning framework that predicts the prevalence of a specific  chronic disease or health risk factor from digital records of online behavior
-## GROUND TRUTH DATA
 
-For this assignment you will use data from the Behavioral Risk Factor Surveillance System ([BRFSS](https://www.cdc.gov/brfss/)) database of the US Center for Disease Control and Prevention. 
-The Web interface to find and download specific datasets is available at: [BRFSS interface](https://www.cdc.gov/brfss/brfssprevalence/index.html).
 
-### Explanation of the data
+The goal of this assignment is to set up a machine learning framework that predicts the prevalence of a specific 
+chronic disease or health risk factor from digital records of online behavior.
 
-- **(Aggregation)** Data is spatially aggregated at different levels (US, state, county, etc.) and temporally aggregated at the yearly scale.
-- **(Downloading Data)** Steps to select the data.
-    1. Select **"Chronic Health Indicators"**
-    1. Select a chronic condition of your choice (e.g., asthma)
-    1. Download the corresponding data in CSV (click on the gear icon) for the available years and different indicators (e.g., raw prevalence, age-adjusted prevalence, etc.).
+You will need:
 
-## DIGITAL PROXY DATA
 
-You will use Google Trends data available at  https://trends.google.com
 
-### Selecting Relevant keywords
+1) GROUND TRUTH DATA
 
-Select the relevant keyword(s) for your prediction problem, and select "United States"or go directly to https://trends.google.com/trends/explore?geo=US).
 
-Scroll down to "subregion" (the default spatial regions are US states, matching the ground truth spatial aggregation) and download your data in CSV format.
+For this assignment you will use data from the Behavioral Risk Factor Surveillance System 
+(BRFSS, https://www.cdc.gov/brfss/) database of the US Center for Disease Control and Prevention. 
+The Web interface to find and download specific datasets is available at: 
+https://www.cdc.gov/brfss/brfssprevalence/index.html
 
+
+Data is spatially aggregated at different levels (US, state, county, etc.) and temporally aggregated at the yearly scale.
+
+Select "Chronic Health Indicators" and then select a chronic condition of your choice  e.g., asthma)and download 
+the corr
+esponding data in CSV (click on the gear icon)
+for the available years and different indicators 
+(e.g., raw prevalence, age-adjusted prevalence, etc.)
+
+
+
+2) DIGITAL PROXY DATA
+You will use Google Trends data available at 
+https://trends.google.com
+Select the relevant keyword(s) for your prediction problem,
+and select "United States" 
+(or go directly to https://trends.google.com/trends/explore?geo=US).
+Scroll down to "subregion" 
+(the default spatial regions are US states, matching the ground truth spatial aggregation) and download your data in 
+CSV format.
 Make sure that you collect data for the same time intervals for which you have ground truth data
 
 (choose "custom time range" and then "full year" to select for a specific year).
@@ -98,4 +116,3 @@ The notebook should run without errors and produce all of the requested outputs.
 	
 - the notebook should be delivered via email or deposited in the Dropbox folder for the course 
 (in both cases, together with the data files it needs to run)
-
