@@ -1,0 +1,689 @@
+2016     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.821 782 63 16,2 1,3
+Alaska 708 89 12 12,6 1,7
+Arizona 6.878 1.108 79 16,1 1,1
+Arkansas 2.941 471 28 16,0 0,9
+California 39.143 5.435 175 13,9 0,4
+Colorado 5.502 467 51 8,5 0,9
+Connecticut 3.567 351 45 9,8 1,3
+Delaware 947 110 12 11,6 1,3
+District of Columbia 685 112 7 16,3 1,0
+Florida 20.524 2.659 125 13,0 0,6
+Georgia 10.270 1.580 116 15,4 1,1
+Hawaii 1.392 129 17 9,3 1,2
+Idaho 1.679 187 17 11,1 1,0
+Illinois 12.583 1.517 102 12,1 0,8
+Indiana 6.493 768 67 11,8 1,0
+Iowa 3.099 302 29 9,8 0,9
+Kansas 2.859 321 33 11,2 1,2
+Kentucky 4.383 667 57 15,2 1,3
+Louisiana 4.573 923 46 20,2 1,0
+Maine 1.317 167 19 12,7 1,4
+Maryland 5.930 424 54 7,1 0,9
+Massachusetts 6.775 649 56 9,6 0,8
+Michigan 9.875 1.091 82 11,1 0,8
+Minnesota 5.430 470 49 8,7 0,9
+Mississippi 2.943 622 46 21,1 1,5
+Missouri 5.878 762 73 13,0 1,2
+Montana 1.031 121 10 11,7 1,0
+Nebraska 1.870 179 26 9,6 1,4
+Nevada 2.941 298 38 10,1 1,3
+New Hampshire 1.316 84 11 6,4 0,8
+New Jersey 8.836 828 82 9,4 0,9
+New Mexico 2.043 364 33 17,8 1,6
+New York 19.459 2.314 146 11,9 0,7
+North Carolina 10.056 1.363 105 13,6 1,0
+North Dakota 749 83 9 11,1 1,2
+Ohio 11.442 1.573 109 13,7 0,9
+Oklahoma 3.911 571 73 14,6 1,9
+Oregon 4.124 486 49 11,8 1,2
+Pennsylvania 12.526 1.396 100 11,1 0,8
+Rhode Island 1.052 119 15 11,4 1,4
+South Carolina 4.898 690 60 14,1 1,2
+South Dakota 855 124 13 14,5 1,5
+Tennessee 6.652 988 87 14,9 1,3
+Texas 27.662 3.812 166 13,8 0,6
+Utah 3.077 264 30 8,6 1,0
+Vermont 622 60 6 9,6 1,0
+Virginia 8.163 929 83 11,4 1,0
+Washington 7.289 800 60 11,0 0,8
+West Virginia 1.808 326 31 18,0 1,7
+Wisconsin 5.764 620 51 10,7 0,9
+Wyoming 571 62 7 10,9 1,2
+2015     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.820 784 60 16,3 1,2
+Alaska 703 65 6 9,2 0,9
+Arizona 6.728 1.156 84 17,2 1,3
+Arkansas 2.951 475 27 16,1 0,9
+California 39.081 5.441 211 13,9 0,5
+Colorado 5.420 538 69 9,9 1,3
+Connecticut 3.572 324 43 9,1 1,2
+Delaware 958 106 12 11,1 1,2
+District of Columbia 676 113 8 16,6 1,2
+Florida 20.071 3.253 176 16,2 0,9
+Georgia 10.100 1.833 111 18,1 1,1
+Hawaii 1.382 151 16 10,9 1,1
+Idaho 1.657 204 21 12,3 1,3
+Illinois 12.683 1.380 104 10,9 0,8
+Indiana 6.502 880 72 13,5 1,1
+Iowa 3.100 321 39 10,4 1,3
+Kansas 2.849 404 42 14,2 1,5
+Kentucky 4.365 851 57 19,5 1,3
+Louisiana 4.599 854 57 18,6 1,2
+Maine 1.340 165 20 12,3 1,5
+Maryland 5.892 566 70 9,6 1,2
+Massachusetts 6.777 782 65 11,5 1,0
+Michigan 9.852 1.259 98 12,8 1,0
+Minnesota 5.458 428 58 7,8 1,1
+Mississippi 2.947 563 33 19,1 1,1
+Missouri 5.946 582 71 9,8 1,2
+Montana 1.018 121 12 11,9 1,2
+Nebraska 1.858 192 18 10,3 1,0
+Nevada 2.864 371 36 13,0 1,3
+New Hampshire 1.293 94 13 7,3 1,0
+New Jersey 8.936 1.004 95 11,2 1,1
+New Mexico 2.036 400 28 19,7 1,4
+New York 19.645 2.791 156 14,2 0,8
+North Carolina 9.887 1.509 95 15,3 1,0
+North Dakota 763 82 12 10,7 1,5
+Ohio 11.435 1.550 105 13,6 0,9
+Oklahoma 3.887 551 45 14,2 1,1
+Oregon 4.029 478 69 11,9 1,7
+Pennsylvania 12.564 1.542 107 12,3 0,9
+Rhode Island 1.044 123 16 11,8 1,5
+South Carolina 4.790 683 56 14,3 1,2
+South Dakota 848 118 10 13,9 1,2
+Tennessee 6.605 973 70 14,7 1,1
+Texas 27.396 4.036 207 14,7 0,8
+Utah 3.004 279 30 9,3 1,0
+Vermont 609 65 8 10,7 1,3
+Virginia 8.216 894 81 10,9 1,0
+Washington 7.193 819 54 11,4 0,8
+West Virginia 1.795 261 46 14,5 2,6
+Wisconsin 5.736 654 68 11,4 1,2
+Wyoming 574 56 8 9,8 1,4
+2014     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.765 848 53 17,8 1,1
+Alaska 694 82 8 11,9 1,2
+Arizona 6.657 1.409 76 21,2 1,1
+Arkansas 2.891 532 44 18,4 1,5
+California 38.666 6.112 218 15,8 0,6
+Colorado 5.376 661 72 12,3 1,3
+Connecticut 3.577 308 44 8,6 1,2
+Delaware 929 103 10 11,0 1,0
+District of Columbia 657 125 9 19,0 1,3
+Florida 19.694 3.282 150 16,7 0,8
+Georgia 9.948 1.676 92 16,8 0,9
+Hawaii 1.365 147 16 10,8 1,1
+Idaho 1.606 199 22 12,4 1,4
+Illinois 12.774 1.756 111 13,7 0,9
+Indiana 6.470 948 85 14,6 1,3
+Iowa 3.078 317 33 10,3 1,1
+Kansas 2.851 345 31 12,1 1,1
+Kentucky 4.299 861 69 20,0 1,6
+Louisiana 4.550 1.049 53 23,1 1,2
+Maine 1.300 190 20 14,6 1,5
+Maryland 5.934 584 55 9,8 0,9
+Massachusetts 6.653 902 71 13,6 1,1
+Michigan 9.893 1.462 90 14,8 0,9
+Minnesota 5.417 447 53 8,3 1,0
+Mississippi 2.961 654 37 22,1 1,2
+Missouri 5.950 620 54 10,4 0,9
+Montana 1.008 121 13 12,0 1,3
+Nebraska 1.873 221 23 11,8 1,2
+Nevada 2.819 478 45 17,0 1,6
+New Hampshire 1.318 95 11 7,2 0,8
+New Jersey 8.938 1.013 90 11,3 1,0
+New Mexico 2.030 406 33 20,0 1,6
+New York 19.658 2.755 144 14,0 0,7
+North Carolina 9.823 1.678 117 17,1 1,2
+North Dakota 731 71 5 9,7 0,7
+Ohio 11.505 1.792 109 15,6 0,9
+Oklahoma 3.728 647 51 17,3 1,4
+Oregon 3.955 570 47 14,4 1,2
+Pennsylvania 12.620 1.581 104 12,5 0,8
+Rhode Island 1.046 119 14 11,3 1,3
+South Carolina 4.764 788 51 16,5 1,1
+South Dakota 846 109 14 12,8 1,7
+Tennessee 6.496 1.122 75 17,3 1,2
+Texas 26.676 4.364 173 16,4 0,6
+Utah 2.928 298 36 10,2 1,2
+Vermont 615 57 6 9,3 0,9
+Virginia 8.257 842 73 10,2 0,9
+Washington 7.079 852 82 12,0 1,2
+West Virginia 1.822 376 30 20,6 1,7
+Wisconsin 5.742 628 55 10,9 1,0
+Wyoming 572 55 6 9,7 1,1
+2013     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.807 891 94 18,5 2,0
+Alaska 696 67 15 9,7 2,1
+Arizona 6.532 1.163 161 17,8 2,5
+Arkansas 2.852 395 46 13,9 1,6
+California 38.207 5.754 352 15,1 0,9
+Colorado 5.303 569 72 10,7 1,4
+Connecticut 3.637 396 59 10,9 1,6
+Delaware 912 102 17 11,2 1,8
+District of Columbia 647 150 17 23,2 2,6
+Florida 19.462 2.882 249 14,8 1,3
+Georgia 9.848 1.825 172 18,5 1,8
+Hawaii 1.338 142 24 10,6 1,8
+Idaho 1.610 200 36 12,4 2,2
+Illinois 12.654 1.720 154 13,6 1,2
+Indiana 6.557 1.083 138 16,5 2,1
+Iowa 3.076 405 42 13,2 1,4
+Kansas 2.760 315 70 11,4 2,5
+Kentucky 4.501 991 106 22,0 2,4
+Louisiana 4.534 963 113 21,2 2,5
+Maine 1.330 151 22 11,4 1,6
+Maryland 5.946 623 88 10,5 1,5
+Massachusetts 6.735 818 150 12,1 2,2
+Michigan 10.074 1.277 158 12,7 1,6
+Minnesota 5.349 589 84 11,0 1,6
+Mississippi 2.895 554 101 19,1 3,5
+Missouri 5.955 1.041 136 17,5 2,3
+Montana 980 103 27 10,5 2,7
+Nebraska 1.868 196 30 10,5 1,6
+Nevada 2.774 401 60 14,5 2,2
+New Hampshire 1.301 71 13 5,5 1,0
+New Jersey 8.728 861 120 9,9 1,4
+New Mexico 2.079 535 72 25,8 3,5
+New York 19.335 3.337 294 17,3 1,5
+North Carolina 9.672 1.419 192 14,7 2,0
+North Dakota 716 94 15 13,2 2,1
+Ohio 11.280 1.684 174 14,9 1,5
+Oklahoma 3.697 785 126 21,2 3,4
+Oregon 3.969 556 80 14,0 2,0
+Pennsylvania 12.804 1.432 152 11,2 1,2
+Rhode Island 1.032 96 18 9,3 1,7
+South Carolina 4.676 904 107 19,3 2,3
+South Dakota 827 110 20 13,3 2,5
+Tennessee 6.272 972 138 15,5 2,2
+Texas 26.201 4.422 314 16,9 1,2
+Utah 2.923 357 50 12,2 1,7
+Vermont 629 43 10 6,8 1,6
+Virginia 8.230 805 116 9,8 1,4
+Washington 6.877 836 99 12,2 1,4
+West Virginia 1.805 358 51 19,8 2,8
+Wisconsin 5.615 756 104 13,5 1,9
+Wyoming 592 68 11 11,4 1,9
+2012     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.808 777 91 16,2 1,9
+Alaska 702 70 8 10,0 1,1
+Arizona 6.642 1.260 111 19,0 1,7
+Arkansas 2.909 584 51 20,1 1,8
+California 37.912 6.015 192 15,9 0,5
+Colorado 5.153 613 61 11,9 1,2
+Connecticut 3.517 363 30 10,3 0,9
+Delaware 900 121 11 13,5 1,2
+D.C. 632 116 9 18,4 1,3
+Florida 19.166 2.926 128 15,3 0,7
+Georgia 9.665 1.752 134 18,1 1,4
+Hawaii 1.356 188 21 13,8 1,6
+Idaho 1.588 229 22 14,4 1,4
+Illinois 12.727 1.608 98 12,6 0,8
+Indiana 6.343 964 70 15,2 1,1
+Iowa 3.010 310 22 10,3 0,8
+Kansas 2.828 397 34 14,0 1,3
+Kentucky 4.342 776 66 17,9 1,5
+Louisiana 4.465 944 99 21,1 2,3
+Maine 1.330 170 14 12,8 1,1
+Maryland 5.892 585 47 9,9 0,8
+Massachusetts 6.566 743 59 11,3 0,9
+Michigan 9.731 1.331 95 13,7 1,0
+Minnesota 5.353 534 47 10,0 0,9
+Mississippi 2.893 636 55 22,0 1,9
+Missouri 5.956 905 86 15,2 1,5
+Montana 999 134 15 13,4 1,5
+Nebraska 1.849 226 25 12,2 1,3
+Nevada 2.735 433 32 15,8 1,2
+New Hampshire 1.308 106 11 8,1 0,8
+New Jersey 8.720 814 73 9,3 0,8
+New Mexico 2.064 420 44 20,4 2,1
+New York 19.298 3.328 131 17,2 0,7
+North Carolina 9.634 1.652 126 17,2 1,3
+North Dakota 692 79 7 11,4 1,1
+Ohio 11.398 1.751 119 15,4 1,1
+Oklahoma 3.700 668 46 18,0 1,3
+Oregon 3.872 523 40 13,5 1,0
+Pennsylvania 12.664 1.756 111 13,9 0,9
+Rhode Island 1.034 141 12 13,6 1,1
+South Carolina 4.667 779 63 16,7 1,4
+South Dakota 822 106 11 12,8 1,3
+Tennessee 6.422 1.194 118 18,6 1,9
+Texas 26.063 4.444 192 17,0 0,7
+Utah 2.849 312 45 11,0 1,6
+Vermont 615 69 7 11,2 1,1
+Virginia 7.994 850 89 10,6 1,1
+Washington 6.856 796 58 11,6 0,9
+West Virginia 1.803 301 40 16,7 2,2
+Wisconsin 5.628 640 49 11,4 0,9
+Wyoming 577 56 7 9,6 1,2
+2011     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.765 732 74 15,4 1,5
+Alaska 712 83 9 11,7 1,3
+Arizona 6.547 1.128 107 17,2 1,7
+Arkansas 2.909 545 46 18,7 1,6
+California 37.592 6.352 202 16,9 0,6
+Colorado 5.016 661 54 13,2 1,1
+Connecticut 3.514 356 33 10,1 0,9
+Delaware 902 123 9 13,7 1,0
+D.C. 619 123 9 19,9 1,4
+Florida 18.986 2.822 136 14,9 0,7
+Georgia 9.681 1.783 122 18,4 1,3
+Hawaii 1.337 162 18 12,1 1,4
+Idaho 1.574 248 26 15,7 1,7
+Illinois 12.697 1.807 109 14,2 0,9
+Indiana 6.344 989 83 15,6 1,3
+Iowa 3.027 315 24 10,4 0,8
+Kansas 2.807 402 32 14,3 1,2
+Kentucky 4.302 689 60 16,0 1,4
+Louisiana 4.494 947 75 21,1 1,6
+Maine 1.328 178 14 13,4 1,1
+Maryland 5.806 537 43 9,3 0,8
+Massachusetts 6.514 688 55 10,6 0,9
+Michigan 9.689 1.449 100 15,0 1,0
+Minnesota 5.276 528 46 10,0 0,9
+Mississippi 2.932 510 40 17,4 1,4
+Missouri 5.892 910 98 15,4 1,7
+Montana 986 163 16 16,5 1,6
+Nebraska 1.823 187 22 10,2 1,3
+Nevada 2.682 414 34 15,5 1,3
+New Hampshire 1.300 99 12 7,6 0,9
+New Jersey 8.642 988 76 11,4 0,9
+New Mexico 2.037 451 36 22,2 1,8
+New York 19.329 3.085 144 16,0 0,7
+North Carolina 9.504 1.459 130 15,4 1,4
+North Dakota 675 67 10 9,9 1,4
+Ohio 11.309 1.708 129 15,1 1,2
+Oklahoma 3.763 522 47 13,9 1,2
+Oregon 3.850 553 51 14,4 1,3
+Pennsylvania 12.697 1.604 106 12,6 0,8
+Rhode Island 1.038 139 10 13,4 1,0
+South Carolina 4.605 874 64 19,0 1,4
+South Dakota 808 117 20 14,5 2,5
+Tennessee 6.324 1.030 104 16,3 1,7
+Texas 25.554 4.458 196 17,4 0,8
+Utah 2.812 309 29 11,0 1,0
+Vermont 615 71 6 11,6 1,0
+Virginia 7.971 907 70 11,4 0,9
+Washington 6.812 854 74 12,5 1,1
+West Virginia 1.820 318 34 17,5 1,8
+Wisconsin 5.676 743 60 13,1 1,1
+Wyoming 562 60 8 10,7 1,4
+2010     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.717 812 83 17,2 1,8
+Alaska 695 87 10 12,5 1,5
+Arizona 6.426 1.208 108 18,8 1,7
+Arkansas 2.879 440 45 15,3 1,6
+California 37.240 6.073 212 16,3 0,6
+Colorado 4.995 615 54 12,3 1,1
+Connecticut 3.541 303 27 8,6 0,8
+Delaware 890 109 10 12,2 1,1
+D.C. 604 118 8 19,5 1,3
+Florida 18.759 3.006 127 16,0 0,7
+Georgia 9.650 1.814 104 18,8 1,1
+Hawaii 1.311 162 15 12,4 1,2
+Idaho 1.543 213 23 13,8 1,5
+Illinois 12.784 1.798 101 14,1 0,8
+Indiana 6.390 1.041 95 16,3 1,5
+Iowa 2.977 307 30 10,3 1,0
+Kansas 2.766 400 39 14,5 1,4
+Kentucky 4.270 754 65 17,7 1,6
+Louisiana 4.418 949 69 21,5 1,6
+Maine 1.298 164 15 12,6 1,2
+Maryland 5.786 628 50 10,9 0,9
+Massachusetts 6.532 711 68 10,9 1,1
+Michigan 9.751 1.530 110 15,7 1,1
+Minnesota 5.217 563 43 10,8 0,8
+Mississippi 2.920 658 44 22,5 1,5
+Missouri 5.929 890 79 15,0 1,4
+Montana 979 142 17 14,5 1,8
+Nebraska 1.804 184 20 10,2 1,2
+Nevada 2.696 446 35 16,6 1,3
+New Hampshire 1.294 84 8 6,5 0,7
+New Jersey 8.733 966 89 11,1 1,0
+New Mexico 2.033 372 30 18,3 1,5
+New York 19.116 3.062 147 16,0 0,8
+North Carolina 9.359 1.633 90 17,4 1,0
+North Dakota 653 82 6 12,6 0,9
+Ohio 11.341 1.746 118 15,4 1,1
+Oklahoma 3.697 603 62 16,3 1,7
+Oregon 3.752 537 44 14,3 1,2
+Pennsylvania 12.530 1.535 84 12,2 0,7
+Rhode Island 1.042 146 11 14,0 1,0
+South Carolina 4.563 773 53 16,9 1,2
+South Dakota 799 109 9 13,6 1,1
+Tennessee 6.315 1.052 85 16,7 1,3
+Texas 25.200 4.633 196 18,4 0,8
+Utah 2.768 278 30 10,0 1,1
+Vermont 624 67 7 10,8 1,1
+Virginia 7.837 835 73 10,7 0,9
+Washington 6.713 779 73 11,6 1,1
+West Virginia 1.816 306 23 16,8 1,3
+Wisconsin 5.626 567 52 10,1 0,9
+Wyoming 550 53 5 9,6 0,9
+2009     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.655 770 60 16,6 1,3
+Alaska 688 81 8 11,7 1,2
+Arizona 6.508 1.381 84 21,2 1,3
+Arkansas 2.846 538 40 18,9 1,4
+California 36.742 5.638 177 15,3 0,5
+Colorado 4.969 613 58 12,3 1,2
+Connecticut 3.472 292 35 8,4 1,0
+Delaware 883 109 11 12,3 1,2
+D.C. 595 107 9 17,9 1,5
+Florida 18.385 2.676 116 14,6 0,6
+Georgia 9.657 1.775 91 18,4 0,9
+Hawaii 1.250 156 14 12,5 1,2
+Idaho 1.524 209 19 13,7 1,2
+Illinois 12.759 1.690 94 13,2 0,7
+Indiana 6.342 1.023 70 16,1 1,1
+Iowa 2.987 319 34 10,7 1,1
+Kansas 2.737 374 35 13,7 1,3
+Kentucky 4.276 727 58 17,0 1,4
+Louisiana 4.450 636 55 14,3 1,2
+Maine 1.297 148 16 11,4 1,3
+Maryland 5.662 543 54 9,6 1,0
+Massachusetts 6.623 717 60 10,8 0,9
+Michigan 9.797 1.376 83 14,0 0,8
+Minnesota 5.200 576 54 11,1 1,0
+Mississippi 2.847 658 44 23,1 1,5
+Missouri 5.963 926 68 15,5 1,1
+Montana 971 131 12 13,5 1,2
+Nebraska 1.778 176 20 9,9 1,1
+Nevada 2.629 343 32 13,0 1,2
+New Hampshire 1.313 103 13 7,8 1,0
+New Jersey 8.660 806 66 9,3 0,8
+New Mexico 1.971 381 31 19,3 1,6
+New York 19.158 3.018 125 15,8 0,7
+North Carolina 9.336 1.576 88 16,9 0,9
+North Dakota 632 69 7 10,9 1,1
+Ohio 11.441 1.526 87 13,3 0,8
+Oklahoma 3.632 468 44 12,9 1,2
+Oregon 3.821 510 49 13,4 1,3
+Pennsylvania 12.401 1.376 84 11,1 0,7
+Rhode Island 1.030 134 14 13,0 1,3
+South Carolina 4.501 618 55 13,7 1,2
+South Dakota 799 113 9 14,1 1,2
+Tennessee 6.240 1.031 70 16,5 1,1
+Texas 24.632 4.262 154 17,3 0,6
+Utah 2.794 270 26 9,7 0,9
+Vermont 617 58 7 9,4 1,1
+Virginia 7.767 831 65 10,7 0,8
+Washington 6.697 781 65 11,7 1,0
+West Virginia 1.801 285 22 15,8 1,2
+Wisconsin 5.545 599 56 10,8 1,0
+Wyoming 540 50 6 9,2 1,1
+2008     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.716 675 57 14,3 1,2
+Alaska 672 55 7 8,2 1,0
+Arizona 6.529 1.172 79 18,0 1,2
+Arkansas 2.822 431 36 15,3 1,3
+California 36.637 5.344 174 14,6 0,5
+Colorado 4.908 541 55 11,0 1,1
+Connecticut 3.433 276 34 8,1 1,0
+Delaware 861 82 9 9,6 1,1
+D.C. 590 98 9 16,5 1,5
+Florida 18.022 2.370 110 13,1 0,6
+Georgia 9.541 1.477 84 15,5 0,9
+Hawaii 1.255 125 13 9,9 1,1
+Idaho 1.515 185 18 12,2 1,2
+Illinois 12.687 1.564 90 12,3 0,7
+Indiana 6.288 901 66 14,3 1,1
+Iowa 2.986 285 32 9,5 1,1
+Kansas 2.716 346 34 12,7 1,3
+Kentucky 4.246 724 58 17,1 1,4
+Louisiana 4.326 788 60 18,2 1,4
+Maine 1.317 158 17 12,0 1,3
+Maryland 5.528 481 51 8,7 0,9
+Massachusetts 6.420 727 60 11,3 0,9
+Michigan 9.806 1.273 80 13,0 0,8
+Minnesota 5.120 506 51 9,9 1,0
+Mississippi 2.900 525 40 18,1 1,4
+Missouri 5.861 780 63 13,3 1,1
+Montana 973 125 12 12,9 1,2
+Nebraska 1.774 188 20 10,6 1,1
+Nevada 2.581 278 30 10,8 1,2
+New Hampshire 1.300 91 12 7,0 1,0
+New Jersey 8.515 787 65 9,2 0,8
+New Mexico 1.977 381 31 19,3 1,6
+New York 19.309 2.734 120 14,2 0,6
+North Carolina 9.234 1.285 80 13,9 0,9
+North Dakota 625 74 7 11,8 1,2
+Ohio 11.386 1.557 88 13,7 0,8
+Oklahoma 3.550 484 45 13,6 1,3
+Oregon 3.806 403 44 10,6 1,2
+Pennsylvania 12.178 1.335 83 11,0 0,7
+Rhode Island 1.042 132 14 12,7 1,3
+South Carolina 4.462 624 55 14,0 1,2
+South Dakota 794 104 9 13,1 1,1
+Tennessee 6.163 924 67 15,0 1,1
+Texas 24.174 3.834 148 15,9 0,6
+Utah 2.754 209 23 7,6 0,9
+Vermont 610 55 7 9,0 1,1
+Virginia 7.735 799 64 10,3 0,8
+Washington 6.526 680 61 10,4 0,9
+West Virginia 1.796 260 21 14,5 1,2
+Wisconsin 5.548 544 53 9,8 1,0
+Wyoming 529 54 6 10,1 1,2
+2007     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.566 662 56 14,5 1,2
+Alaska 675 51 7 7,6 1,0
+Arizona 6.365 912 71 14,3 1,1
+Arkansas 2.803 387 35 13,8 1,2
+California 36.247 4.589 163 12,7 0,5
+Colorado 4.872 478 52 9,8 1,1
+Connecticut 3.471 309 36 8,9 1,0
+Delaware 861 80 9 9,3 1,1
+D.C. 580 104 9 18,0 1,6
+Florida 18.044 2.250 108 12,5 0,6
+Georgia 9.486 1.294 80 13,6 0,8
+Hawaii 1.264 94 12 7,5 0,9
+Idaho 1.501 149 16 9,9 1,1
+Illinois 12.680 1.262 82 10,0 0,7
+Indiana 6.258 740 61 11,8 1,0
+Iowa 2.965 264 31 8,9 1,1
+Kansas 2.720 319 33 11,7 1,2
+Kentucky 4.202 653 55 15,5 1,3
+Louisiana 4.186 673 56 16,1 1,3
+Maine 1.312 142 16 10,9 1,2
+Maryland 5.560 491 52 8,8 0,9
+Massachusetts 6.336 707 59 11,2 0,9
+Michigan 9.919 1.076 74 10,8 0,8
+Minnesota 5.188 482 50 9,3 1,0
+Mississippi 2.895 655 44 22,6 1,5
+Missouri 5.783 742 62 12,8 1,1
+Montana 938 122 12 13,0 1,2
+Nebraska 1.751 174 20 9,9 1,1
+Nevada 2.566 250 28 9,7 1,1
+New Hampshire 1.312 76 11 5,8 0,9
+New Jersey 8.548 742 63 8,7 0,7
+New Mexico 1.941 271 27 14,0 1,4
+New York 19.021 2.757 121 14,5 0,6
+North Carolina 9.170 1.423 84 15,5 0,9
+North Dakota 614 57 7 9,3 1,1
+Ohio 11.280 1.446 85 12,8 0,8
+Oklahoma 3.551 476 44 13,4 1,3
+Oregon 3.761 481 47 12,8 1,3
+Pennsylvania 12.297 1.273 81 10,4 0,7
+Rhode Island 1.042 99 12 9,5 1,1
+South Carolina 4.380 617 54 14,1 1,2
+South Dakota 787 74 8 9,4 1,0
+Tennessee 6.137 906 66 14,8 1,1
+Texas 23.653 3.903 148 16,5 0,6
+Utah 2.651 255 26 9,6 1,0
+Vermont 613 61 7 9,9 1,2
+Virginia 7.678 664 59 8,6 0,8
+Washington 6.503 661 60 10,2 0,9
+West Virginia 1.793 265 22 14,8 1,2
+Wisconsin 5.458 601 56 11,0 1,0
+Wyoming 518 56 6 10,9 1,2
+2006     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.532 650 56 14,3 1,2
+Alaska 658 58 7 8,9 1,1
+Arizona 6.256 902 71 14,4 1,1
+Arkansas 2.748 487 38 17,7 1,4
+California 36.160 4.427 160 12,2 0,4
+Colorado 4.797 466 52 9,7 1,1
+Connecticut 3.457 275 34 8,0 1,0
+Delaware 858 80 9 9,3 1,1
+D.C. 569 104 9 18,3 1,6
+Florida 18.029 2.068 104 11,5 0,6
+Georgia 9.334 1.172 76 12,6 0,8
+Hawaii 1.254 116 13 9,2 1,0
+Idaho 1.472 141 16 9,5 1,1
+Illinois 12.633 1.338 85 10,6 0,7
+Indiana 6.334 674 59 10,6 0,9
+Iowa 2.913 301 33 10,3 1,1
+Kansas 2.719 349 34 12,8 1,3
+Kentucky 4.106 690 56 16,8 1,4
+Louisiana 4.206 713 57 17,0 1,4
+Maine 1.313 134 16 10,2 1,2
+Maryland 5.607 469 51 8,4 0,9
+Massachusetts 6.324 758 61 12,0 1,0
+Michigan 9.953 1.323 81 13,3 0,8
+Minnesota 5.145 422 47 8,2 0,9
+Mississippi 2.887 596 42 20,6 1,5
+Missouri 5.797 659 58 11,4 1,0
+Montana 930 125 12 13,5 1,3
+Nebraska 1.765 180 20 10,2 1,1
+Nevada 2.530 241 28 9,5 1,1
+New Hampshire 1.308 71 11 5,4 0,8
+New Jersey 8.650 762 64 8,8 0,7
+New Mexico 1.939 328 29 16,9 1,5
+New York 19.021 2.668 119 14,0 0,6
+North Carolina 8.847 1.225 79 13,8 0,9
+North Dakota 615 70 7 11,4 1,2
+Ohio 11.297 1.371 83 12,1 0,7
+Oklahoma 3.489 531 47 15,2 1,3
+Oregon 3.705 439 45 11,8 1,2
+Pennsylvania 12.326 1.397 84 11,3 0,7
+Rhode Island 1.054 110 13 10,5 1,2
+South Carolina 4.224 474 49 11,2 1,2
+South Dakota 770 82 8 10,7 1,1
+Tennessee 5.916 879 65 14,9 1,1
+Texas 23.208 3.816 147 16,4 0,6
+Utah 2.536 235 25 9,3 1,0
+Vermont 618 48 6 7,8 1,1
+Virginia 7.532 651 58 8,6 0,8
+Washington 6.310 502 53 8,0 0,8
+West Virginia 1.810 277 22 15,3 1,2
+Wisconsin 5.471 555 54 10,1 1,0
+Wyoming 516 51 6 10,0 1,2
+2005     
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.501 750 59 16,7 1,3
+Alaska 657 66 7 10,0 1,1
+Arizona 6.025 917 71 15,2 1,2
+Arkansas 2.756 382 34 13,8 1,3
+California 35.840 4.716 164 13,2 0,5
+Colorado 4.629 530 55 11,4 1,2
+Connecticut 3.483 326 37 9,3 1,1
+Delaware 842 78 9 9,2 1,1
+D.C. 539 115 9 21,3 1,7
+Florida 17.845 1.975 102 11,1 0,6
+Georgia 9.014 1.298 80 14,4 0,9
+Hawaii 1.274 110 12 8,6 1,0
+Idaho 1.441 143 16 9,9 1,1
+Illinois 12.571 1.441 87 11,5 0,7
+Indiana 6.131 774 62 12,6 1,0
+Iowa 2.902 327 34 11,3 1,2
+Kansas 2.693 337 34 12,5 1,3
+Kentucky 4.049 599 53 14,8 1,3
+Louisiana 4.086 748 58 18,3 1,4
+Maine 1.314 166 17 12,6 1,3
+Maryland 5.560 542 54 9,7 1,0
+Massachusetts 6.318 641 57 10,1 0,9
+Michigan 9.964 1.196 78 12,0 0,8
+Minnesota 5.113 412 46 8,1 0,9
+Mississippi 2.843 571 41 20,1 1,5
+Missouri 5.697 659 58 11,6 1,0
+Montana 926 128 12 13,8 1,3
+Nebraska 1.760 167 19 9,5 1,1
+Nevada 2.447 260 29 10,6 1,2
+New Hampshire 1.298 73 11 5,6 0,9
+New Jersey 8.692 592 57 6,8 0,7
+New Mexico 1.938 347 29 17,9 1,5
+New York 18.995 2.760 121 14,5 0,6
+North Carolina 8.538 1.115 75 13,1 0,9
+North Dakota 625 70 7 11,2 1,2
+Ohio 11.310 1.392 84 12,3 0,7
+Oklahoma 3.486 543 47 15,6 1,4
+Oregon 3.619 436 45 12,0 1,3
+Pennsylvania 12.237 1.372 84 11,2 0,7
+Rhode Island 1.052 127 13 12,1 1,3
+South Carolina 4.164 626 55 15,0 1,3
+South Dakota 765 90 8 11,8 1,1
+Tennessee 5.853 872 65 14,9 1,1
+Texas 22.777 3.681 144 16,2 0,6
+Utah 2.521 232 24 9,2 1,0
+Vermont 621 47 6 7,6 1,0
+Virginia 7.442 684 60 9,2 0,8
+Washington 6.237 636 59 10,2 0,9
+West Virginia 1.795 276 22 15,4 1,2
+Wisconsin 5.440 553 54 10,2 1,0
+Wyoming 509 54 6 10,6 1,2
+2004    
+STATE Total Number "Standard error" Percent "Standard error"
+Alabama 4.508 762 59 16,9 1,3
+Alaska 648 59 7 9,1 1,1
+Arizona 5.763 830 68 14,4 1,2
+Arkansas 2.723 412 35 15,1 1,3
+California 35.772 4.724 165 13,2 0,5
+Colorado 4.517 450 51 10,0 1,1
+Connecticut 3.487 352 38 10,1 1,1
+Delaware 825 74 9 9,0 1,1
+D.C. 545 93 9 17,0 1,6
+Florida 17.419 2.028 103 11,6 0,6
+Georgia 8.700 1.132 75 13,0 0,9
+Hawaii 1.244 106 12 8,6 1,0
+Idaho 1.372 136 15 9,9 1,1
+Illinois 12.563 1.546 90 12,3 0,7
+Indiana 6.121 712 60 11,6 1,0
+Iowa 2.901 316 34 10,9 1,2
+Kansas 2.669 304 32 11,4 1,2
+Kentucky 4.068 723 57 17,8 1,4
+Louisiana 4.419 744 58 16,8 1,3
+Maine 1.290 149 17 11,6 1,3
+Maryland 5.539 550 54 9,9 1,0
+Massachusetts 6.363 594 55 9,3 0,9
+Michigan 9.939 1.318 81 13,3 0,8
+Minnesota 5.120 356 43 7,0 0,9
+Mississippi 2.862 536 40 18,7 1,4
+Missouri 5.609 686 60 12,2 1,1
+Montana 908 129 12 14,2 1,3
+Nebraska 1.724 163 19 9,5 1,1
+Nevada 2.385 260 29 10,9 1,2
+New Hampshire 1.291 71 11 5,5 0,9
+New Jersey 8.652 693 61 8,0 0,7
+New Mexico 1.899 314 28 16,5 1,5
+New York 19.010 2.847 122 15,0 0,6
+North Carolina 8.421 1.229 79 14,6 0,9
+North Dakota 627 61 7 9,7 1,1
+Ohio 11.259 1.304 81 11,6 0,7
+Oklahoma 3.444 373 40 10,8 1,2
+Oregon 3.572 421 45 11,8 1,3
+Pennsylvania 12.142 1.383 84 11,4 0,7
+Rhode Island 1.055 122 13 11,5 1,2
+South Carolina 4.120 615 54 14,9 1,3
+South Dakota 751 102 9 13,5 1,2
+Tennessee 5.846 932 67 15,9 1,1
+Texas 22.288 3.669 144 16,5 0,7
+Utah 2.390 241 25 10,1 1,0
+Vermont 616 48 7 7,8 1,1
+Virginia 7.369 693 60 9,4 0,8
+Washington 6.116 700 61 11,4 1,0
+West Virginia 1.791 254 21 14,2 1,2
+Wisconsin 5.456 676 59 12,4 1,1
+Wyoming 496 50 6 10,0 1,2
