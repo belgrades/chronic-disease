@@ -11,7 +11,8 @@ ID	Year	LocationAbbr	LocationDesc	Class	Topic	Indicator	Response	DataSource	Data
 780992	2004	DE	Delaware	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	7			6	8	346	Overall	Overall	DIABETE2	10	10						
 782675	2004	DC	District of Columbia	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	8.3			7.1	9.5	235	Overall	Overall	DIABETE2	11	11						
 784821	2004	FL	Florida	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	7.8			7	8.6	656	Overall	Overall	DIABETE2	12	12						
-786659	2004	GA	Georgia	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	7.3			6.4	8.2	488	Overall	Overall	DIABETE2	13	13						
+786659	2004	GA	Georgia	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	7.3			6.4	8.2	488	Overall	Overall	DIABETE2	13	13
+665618	2004	HI	Hawaii	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	7			6.5	7.5	50	Overall	Overall	DIABETE2	14	14
 789550	2004	ID	Idaho	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	6.1			5.4	6.8	407	Overall	Overall	DIABETE2	15	15						
 791819	2004	IL	Illinois	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	6			5.2	6.8	283	Overall	Overall	DIABETE2	16	16						
 794132	2004	IN	Indiana	Chronic Health Indicators	Diabetes	Have you ever been told by a doctor that you have diabetes?	Yes	BRFSS	%	Crude Prevalence	7.7			7	8.4	567	Overall	Overall	DIABETE2	17	17						
